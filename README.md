@@ -36,3 +36,9 @@ This analysis is being done in November 2025. Data version information is as fol
 
 ### Results: 
 To be updated. 
+
+
+### Sources: 
+Agency for Healthcare Research and Quality. (2013, March). How CMS measures the 30-day all-cause rehospitalization rate on the Hospital Compare website (AHRQ Publication No. 12(13)-0084). U.S. Department of Health and Human Services. https://www.ahrq.gov/patient-safety/settings/hospital/red/toolkit/redtool-30day.html  
+
+Chen, H.-C., Lee, S.-M., Wu, C.-C., & Yeh, T.-F. (2020). Improving the US hospital reimbursement: How patient satisfaction in HCAHPS reflects lower readmission. International Journal of Health Care Quality Assurance, 33(4–5), 333–346. https://doi.org/10.1108/IJHCQA-03-2019-0066
