@@ -23,11 +23,11 @@ In order to explore the relationship between hospital quality of care metrics an
 
 This analysis is being done in November 2025. Data version information is as follows: 
 
-| Table | CSV Name | Last Updated | Release Date | 
-| -------- | ------- | ------- | ------- |
-| Hospital General Information | Hospital_General_Information.csv | 07-16-2025 | 08-06-2025 |
-| Hospital Readmissions Reduction Program | FY_2025_Hospital_Readmission_Reduction_Program_Hospital.csv | 01-08-2025 | 08-06-2025 |
-| Timely and Effective Care | Timely_and_Effective_Care-Hospital.csv | 07-24-2025 | 08-06-2025 |
+| Table | Last Updated | Release Date | 
+| -------- | ------- | ------- |
+| Hospital General Information | 07-16-2025 | 08-06-2025 |
+| Hospital Readmissions Reduction Program | 01-08-2025 | 08-06-2025 |
+| Timely and Effective Care | 07-24-2025 | 08-06-2025 |
 
 ### Methodology: 
 &nbsp;&nbsp;&nbsp;&nbsp;In order to carry out the investigation outlined in the research questions section of this plan, I will do the following. First, I will do an exploratory analysis of the data and analyze the distribution of readmission rates and sizes across all registered Medicare hospitals. This will help establish a baseline understanding of the data that can be referenced along with my further analyses.  
