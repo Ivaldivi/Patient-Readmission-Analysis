@@ -4,6 +4,7 @@ channels:
   - https://repo.anaconda.com/pkgs/r
 dependencies:
   - pandas
+  - polars
   - matplotlib
   - seaborn
   - jupyter
