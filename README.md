@@ -1,4 +1,3 @@
-# Patient-Readmission-Analysis
 # Patient Readmission Exploration
 #### Author: Izzy Valdivia
 ##### November 2025
