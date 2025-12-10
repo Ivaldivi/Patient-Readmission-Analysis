@@ -9,12 +9,11 @@
 ### Related Work: 
 &nbsp;&nbsp;&nbsp;&nbsp; There has been some research done about hospital readmission rate that is tangential to the analysis I am aiming to complete. A paper published in 2020 found that looking at a specific subset of care quality measures, specifically patient satisfaction, leads to lower readmissions rates (Chen et al., 2020). Similarly, the Agency for Healthcare Research and Quality came out with a Re-Engineered Discharge toolkit that predicts a hospital’s readmission rate based on their member mix. While both of these resources analyze how certain healthcare factors affect a hospital’s readmission rate, I would like to examine this issue with a more comprehensive view. This project will be a multi-faceted approach to examining readmission rates using both clinical factors like timeliness while also incorporating structural aspects such as hospital funding sources and the type of hospital.
 
-### Research Questions: 
+### Research Questions:
 In order to explore the relationship between hospital quality of care metrics and their patients’ corresponding readmissions rates, I will base my analysis on the following questions: 
-* What are the current patterns and distributions of patient readmission rates across the Medicare hospitals and how do they vary by hospital type, funding source, size and location? 
+* What are the current patterns and distributions of patient readmission rates across the Medicare hospitals and how do they vary by hospital ownership type or location? 
 * What quality of care metrics, like timeliness, patient experience, and emergency room wait times are most strongly associated with readmission rate?
-* How effective can a multivariate regression model predict readmission rates based on the available quality of care metrics and structural aspects of the hospitals, and how does this prediction power compare across the different types of hospitals?
-
+* How well do multivariate linear regression and random forest models predict hospital readmission rates using available quality-of-care metrics and structural hospital characteristics?
 
 
 ### Data Sources:  
