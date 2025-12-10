@@ -33,9 +33,6 @@ This analysis is being done in November 2025. Data version information is as fol
 &nbsp;&nbsp;&nbsp;&nbsp;Next, to answer the second research question about identifying which quality of care metrics are most associated with large readmission rates, I will perform a correlation analysis. This will identify which, if any, of the quality of care metrics are correlated with readmissions and whether or not that correlation is positive or negative. In the case there are many correlated predictor variables I will use LASSO to select only a subset of the most important variables. Important meaning the variables that explain the most variability in the outcome variable.   
 &nbsp;&nbsp;&nbsp;&nbsp;Finally, to address the third research question, I will fit a multivariate logistic regression model as well as a random forest model with the quality of care and hospital-specific variables as the predictors. I will compare the R^2, RMSE and MAE values across both model types to evaluate which is the better predictor. Similarly, I will evaluate the models for interpretability.
 
-### Results: 
-To be updated. 
-
 
 ### Sources: 
 Agency for Healthcare Research and Quality. (2013, March). How CMS measures the 30-day all-cause rehospitalization rate on the Hospital Compare website (AHRQ Publication No. 12(13)-0084). U.S. Department of Health and Human Services. https://www.ahrq.gov/patient-safety/settings/hospital/red/toolkit/redtool-30day.html  
